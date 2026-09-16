@@ -1,3 +1,4 @@
 # first_project
-its first repo of git learning.
+its first repo of git learning. 
+<br>
 this is first editing in this file.
